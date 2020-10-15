@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">CloudHospital</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="title_notifications">Notifications</string>
+
+  <string name="title_featured">Featured</string>
+  <string name="title_search">Search</string>
+  <string name="title_booking">Booking</string>
+  <string name="title_chat">Chat</string>
+  <string name="title_more">More</string>
+
+  <string name="general_health">General Health</string>
+  <string name="beauty">Beauty</string>
+</resources>
